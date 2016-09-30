@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/mogeta/lbot",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/line/line-bot-sdk-go/linebot",
+			"Rev": "3a7d66f5efce6ac202f650134609f9d6d163a640"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "a333c534c871727fb95745870e8b98a69447f2ce"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "a333c534c871727fb95745870e8b98a69447f2ce"
+		}
+	]
+}
